@@ -1,0 +1,18 @@
+Failed Login Attempt by ram at 2026-11-02 09:56:35
+Failed Login Attempt by ram at 2026-11-02 09:56:41
+Failed Login Attempt by chithu at 2026-11-02 09:56:46
+Successful Login by Chithu at 2026-11-02 09:56:53
+Successfully Withdrawn by Chithu at 2026-11-02 09:56:59Status-Completed
+Successful Login by Chithu at 2026-11-02 09:58:10
+Successfully Deposited by Chithu at 2026-11-02 09:58:17 Status-Completed
+Successful Login by Chithu at 2026-11-02 10:01:32
+Balance Checked by Chithu at 2026-11-02 10:01:34 Status-Completed
+Failed Login Attempt by ram at | 2026-11-02 10:01:44
+Successful Login by Chithu at 2026-11-02 10:01:53
+Successfully Deposited by Chithu at | 2026-11-02 10:02:00 | Status-Completed
+Failed Login Attempt by ram at | 2026-11-02 10:02:47
+Successful Login by Chithu at 2026-11-02 10:03:00
+Successful Login by Chithu at 2026-11-02 10:08:10
+Invalid Choice Entered by Chithu at | 2026-11-02 10:08:12 | Status-Failed
+Successful Login by Chithu at 2026-11-02 10:08:54
+Invalid Choice Entered by Chithu at | 2026-11-02 10:08:55 | Status-Failed
